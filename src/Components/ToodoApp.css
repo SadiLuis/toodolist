@@ -14,7 +14,6 @@
     display: flex;
     gap: 10px;
 
-
 }
 
 .toodoInput{
@@ -61,7 +60,7 @@
 
 }
 
-.buttom{
+.buttom, .buttonEdit{
     border-radius: 7px;
     border: 1px solid rgba(0, 0, 0, 0.575);
     padding: 10px 20px;
